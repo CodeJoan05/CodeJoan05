@@ -14,5 +14,6 @@
   * MySql
   * Figma 
   * Photoshop
-  * Git<img  
+  * Git
+  * Visual Studio Code      
 </p>
