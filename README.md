@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Joanna</h1>
-<h3 align="left">A passionate frontend developer from Poland</h3>
+<h1 align="left">Część 👋, jestem Joanna!</h1>
+<h3 align="left">Interesuję się frontendem i backedem</h3>
 
 <p align="left">
 </p>
